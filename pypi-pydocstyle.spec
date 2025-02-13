@@ -7,7 +7,7 @@
 #
 Name     : pypi-pydocstyle
 Version  : 6.3.0
-Release  : 55
+Release  : 56
 URL      : https://files.pythonhosted.org/packages/e9/5c/d5385ca59fd065e3c6a5fe19f9bc9d5ea7f2509fa8c9c22fb6b2031dd953/pydocstyle-6.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e9/5c/d5385ca59fd065e3c6a5fe19f9bc9d5ea7f2509fa8c9c22fb6b2031dd953/pydocstyle-6.3.0.tar.gz
 Summary  : Python docstring style checker
